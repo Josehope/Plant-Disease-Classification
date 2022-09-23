@@ -33,6 +33,10 @@ This is a demo of how the model performes when hosted and run using streamlit
 
 ![](https://github.com/Josehope/Plant-Disease-Classification/blob/master/Screenshot/plant-disease-1.gif)
 
+Below is another demo of how the model performes
+
+![](https://github.com/Josehope/Plant-Disease-Classification/blob/master/Screenshot/plant-disease-2.gif)
+
 
 ## Deployment
 
