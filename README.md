@@ -31,11 +31,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 This is a demo of how the model performes when hosted and run using streamlit
 
-https://media.giphy.com/media/aoQalyuqVHCCqInVHP/giphy.gif
-
-
-
-https://media.giphy.com/media/lFiqPVeU1s8EpBmHxg/giphy.gif
+![](https://github.com/Josehope/Plant-Disease-Classification/blob/master/Screenshot/plant-disease-1.gif)
 
 
 ## Deployment
