@@ -3,13 +3,7 @@
 
 This model is aimed at predicting plant disease from the following selected plants
 
-[Corn__Common_rust' 'Pepper__bell___Bacterial_spot'
- 'Pepper__bell___healthy' 'Potato___Early_blight' 'Potato___Late_blight'
- 'Potato___healthy' 'Tomato_Bacterial_spot' 'Tomato_Early_blight'
- 'Tomato_Late_blight' 'Tomato_Leaf_Mold' 'Tomato_Septoria_leaf_spot'
- 'Tomato_Spider_mites_Two_spotted_spider_mite' 'Tomato__Target_Spot'
- 'Tomato__Tomato_YellowLeaf__Curl_Virus' 'Tomato__Tomato_mosaic_virus'
- 'Tomato_healthy']
+[Corn', 'Pepper', 'Potato', 'Tomato').
 
  The dataset which was titled "PlantVillage" was gotten from kaggle
 
@@ -31,7 +25,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 This is a demo of how the model performes when hosted and run using streamlit
 
-![](https://github.com/Josehope/Plant-Disease-Classification/blob/master/Screenshot/plant-disease-1.gif)
+![](https://github.com/Josehope/Plant-Disease-Classification/blob/master/Screenshot/plant-disease-1.gif?raw=true)
+
+
 
 Below is another demo of how the model performes
 
